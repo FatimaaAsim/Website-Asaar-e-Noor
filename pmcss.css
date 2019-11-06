@@ -1,0 +1,28 @@
+.data {
+    color: beige;
+    position: relative;
+
+
+}
+
+.pclr {
+    color: cadetblue;
+    left: 500;
+    padding: 20px 40px 0px;
+}
+
+.cnc {
+    color: cadetblue;
+    left: 500;
+    font-size: 2em;
+}
+.pmc{
+    padding: 70px 70px 100px;
+    color: cadetblue;
+}
+.pmi{
+    float: left;
+    padding: 40px;
+}
+
+  
